@@ -1,0 +1,4 @@
+# grouped page
+
+test
+
